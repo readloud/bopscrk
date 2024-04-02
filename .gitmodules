@@ -1,0 +1,3 @@
+[submodule "bopscrk/modules/lyricpass"]
+	path = bopscrk/modules/lyricpass
+	url = https://github.com/r3nt0n/lyricpass.git
